@@ -43,12 +43,12 @@ py -m venv env
 
 
 4. Clone the repository:
-git clone (https://github.com/Sayandigar/Job-Portal.git)](https://github.com/Sayandigar/Job-Portal.git)
+git clone https://github.com/Sayandigar/Job-Portal.git
 
-5. Install dependencies:
+6. Install dependencies:
 pip install -r requirements.txt
 
-6. Run the website:
+7. Run the website:
 python run.py
 
 Access the website by visiting `http://localhost:5000` in your web browser.
